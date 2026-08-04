@@ -1,5 +1,5 @@
 {
-  "name": "qdb-quymny-socket",
+  "name": "quymny-socket",
   "version": "1.0.0",
   "scripts": {
     "deploy": "wrangler deploy",
