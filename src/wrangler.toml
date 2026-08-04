@@ -1,4 +1,4 @@
-name="qdb-quymny-socket"
+name="quymny-socket"
 
 main="src/index.js"
 
